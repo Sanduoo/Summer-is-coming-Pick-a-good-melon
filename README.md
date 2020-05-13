@@ -12,8 +12,8 @@
         
         语言：Python、JavaScript
         平台：Anaconda-Tensorflow2.1
-        WeChat-miniprogarm
-        腾讯云-云服务器
+          WeChat-miniprogarm
+          腾讯云-云服务器
 
 ## 项目进度
 
