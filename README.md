@@ -1,5 +1,5 @@
 # Summer-is-coming-Pick-a-good-melon
-使用Tensorflow+WeChatminiprogram实现西瓜甜度识别
+使用Tensorflow+WeChatminiprogram实现西瓜甜度识别(目前还在开发阶段，实现之后会出一个详细的教程)
 
 # 介绍
 
