@@ -1,5 +1,5 @@
 # Summer-is-coming-Pick-a-good-melon
-使用Tensorflow+WeChatminiprogram实现西瓜甜度识别(目前还在开发阶段，实现之后会出一个详细的教程)
+使用Tensorflow+WeChatMiniProgram实现西瓜甜度识别(目前还在开发阶段，实现之后会出一个详细的教程)
 
 # 介绍
 
@@ -8,12 +8,11 @@
         
         项目采用迭代开发的方式，先实现基础功能再通过不断的迭代更新来进行优化和拓展。
 
-## 涉及到的技术
+## 平台
         
-        语言：Python、JavaScript
-        平台：Anaconda-Tensorflow2.1
-          WeChat-miniprogarm
-          腾讯云-云服务器
+        Anaconda-Tensorflow2.1(Python)
+        WeChat-MinipProgarm(JS)
+        腾讯云-云服务器(Cent os)
 
 ## 项目进度
 
@@ -27,16 +26,14 @@
         Tensorflow模型搭建：Baseline全连接模型、AlexNet模型
         模型训练与保存：由于只有200个样本数据，目前准确率并不高
         微信小程序前端搭建
+        微信小程序后端服务器搭建
   
 ##### 正在进行：
         
-        微信小程序的后端开发
-        目前有两个思路：
-        1. 把模型放在小程序云开发环境的云存储中使用云函数来调用
-        2. 把模型放在腾讯云的云服务器中，通过HTTPS来调用函数
-  
-##### 待完成：
-  
+        域名服务器备案
         采集大量西瓜样本
         构建新的模型结构
+
+##### 待完成：
+        
         优化模型的准确率      
