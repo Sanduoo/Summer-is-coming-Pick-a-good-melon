@@ -29,7 +29,7 @@ Page({
     listener.start()
   },
   async loadModel() {
-    const net = await tfl.loadLayersModel('http://49.235.250.162:8888/download?filename=%2Fwww%2Fwwwroot%2Fmodel%2Fbaseline%2Fmodel.json')
+    const net = await tfl.loadLayersModel('https:yourPath')
     net.summary()
     return net
   },
